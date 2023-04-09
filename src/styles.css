@@ -129,7 +129,6 @@ app-top-bar {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-
 }
 
 app-top-bar h1 {
