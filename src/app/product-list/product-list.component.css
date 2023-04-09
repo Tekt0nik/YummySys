@@ -1,4 +1,12 @@
-
+.Order {
+  background-color: gainsboro;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+  width: 100%;
+  padding-left: 10px;
+  margin-left: 10%;
+  display: block;
+}
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
