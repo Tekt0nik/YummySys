@@ -1,5 +1,7 @@
 /* Global Styles */
 
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,800&display=swap');
+
 * {
   font-family: 'Roboto', Arial, sans-serif;
   color: #616161;
@@ -132,9 +134,12 @@ app-top-bar {
 }
 
 app-top-bar h1 {
+  /* font-family: 'Indie Flower';
+  src: url(./assets/fonts/IndieFlower-Regular.ttf) format(truetype); */
   font-family: 'Playfair Display', serif;
   color: white;
   margin: 0;
+  align-content: center;
 }
 
 /* Checkout Cart, Shipping Prices */
